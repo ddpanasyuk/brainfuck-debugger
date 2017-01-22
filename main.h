@@ -6,6 +6,7 @@
 #include "interface.h"
 #include "string.h"
 
+//loop where program runs
 int workLoop(char* szText);
 
 #endif

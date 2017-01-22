@@ -1,2 +1,2 @@
 all:
-	gcc *.c -lpdcurses -g -o bdg.exe 
+	gcc *.c -lpdcurses -o bdg.exe 
